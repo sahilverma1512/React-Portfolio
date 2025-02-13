@@ -389,7 +389,7 @@ const index: React.FC<indexProps> = () => {
                   data-scroll-class="safarika-anim"
                   className="heading-2"
                 >
-                  Microsoft Student Chapter - ABESIT
+                  Microsoft - ABESIT
                 </h2>
                 <a
                   rel="noopener"
